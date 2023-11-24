@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904666355893",
+    "project_id": "newone-8c95a",
+    "storage_bucket": "newone-8c95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904666355893:android:2c2ed7acbcd2997b5b06fc",
+        "android_client_info": {
+          "package_name": "com.example.myaicte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-KRKLsmZp_I_lMHr0D8tJnkikOU-kB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

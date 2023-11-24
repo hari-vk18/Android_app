@@ -1,0 +1,6 @@
+<!-- Example: Adding a border -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#4CA8BA" />
+    <corners android:radius="2dp" />
+     <!-- Border color and width -->
+</shape>

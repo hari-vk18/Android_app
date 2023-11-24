@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Technical</string>
+    <string name="aicte">TEMA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_androidknowledge_com">contact@androidknowledge.com</string>
+    <string name="android_knowledge">Android Knowledge</string>
+    <string name="Click">Click</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="all_india_council_for_technical_education">Mobile Application for Technical
+           Education</string>
+    <string name="quick_links">Quick Links</string>
+    <string name="aicte_internship_portal">Internship portal</string>
+    <string name="atal_academy">Academy</string>
+    <string name="aicte_karma">KARMA</string>
+    <string name="welcome_to_aicte">Welcome</string>
+    <string name="all_india_council_for_technical_education_aicte_was_set_up_in_november_1945_as_a_national_level_apex_advisory_body_to_conduct_a_survey_on_the_facilities_available_for_technical_education_and_to_promote_development_in_the_country_in_a_coordinated_and_integrated_manner">Technical Education was set up in November 1945 as a national-level Apex Advisory Body to conduct a survey on the facilities available for technical education and to promote development in the country in a coordinated and integrated manner.</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="reports">Reports |</string>
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="about_us">About Us</string>
+</resources>
